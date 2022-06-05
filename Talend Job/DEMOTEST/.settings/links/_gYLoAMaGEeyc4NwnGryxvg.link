@@ -1,0 +1,17 @@
+{
+  "itemId" : "_gYLoAMaGEeyc4NwnGryxvg",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_3w0Z8PwDEemOBcAAdKZmSw",
+    "parameterList" : [ {
+      "id" : "_7AghkYQuEeuY4q4IBFwEPg",
+      "name" : "DI_CNTL_Schema"
+    }, {
+      "id" : "_7AghlYQuEeuY4q4IBFwEPg",
+      "name" : "DI_CNTL_Port"
+    }, {
+      "id" : "_7AghloQuEeuY4q4IBFwEPg",
+      "name" : "DI_CNTL_AdditionalParams"
+    } ]
+  } ]
+}
