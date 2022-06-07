@@ -11,3 +11,7 @@
 • Accomplished data profiling, cleansing, integration using Talend and Alteryx
 
 • Utilized Power BI and Tableau to create a various analytical dashboard that depicts critical KPIs
+
+
+
+![ER Diagram](https://user-images.githubusercontent.com/90269638/172283037-a060e9a7-ca85-4bde-833f-c6bb84bca140.jpeg)
