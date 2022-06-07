@@ -6,6 +6,7 @@ IMDb Project Deliverables
 •Add supplemental data to model
 •Design and create BI visualizations answering business questions
 
+
 • Designed a Data Warehouse for the IMDB movies , People and TV series database
 
 • Optimize different 100+ ETL jobs for ensuring one-click load to the entire data warehouse using a master job by parallelization
