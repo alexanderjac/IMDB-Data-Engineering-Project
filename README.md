@@ -1,9 +1,13 @@
 IMDb Project Deliverables
 
 •Ingest initial set of tsv or csv files into staging tables
+
 •Design and load dimensional model for above data
+
 •Perform data consistency , data quality & cleansing processes
+
 •Add supplemental data to model
+
 •Design and create BI visualizations answering business questions
 
 
