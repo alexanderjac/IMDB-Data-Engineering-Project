@@ -15,6 +15,17 @@
 ![ER Diagram](https://user-images.githubusercontent.com/90269638/172283037-a060e9a7-ca85-4bde-833f-c6bb84bca140.jpeg)
 
 
+Technologies Used:
+
+ER/ Studio 
+SQL server Developer Edition 
+Microsoft SQL server Management Studio 
+Talend Real-Time Data Platform 7.1 
+Alteryx
+Tableau Desktop 
+Microsoft PowerBI
+
+
 Dataset Links:
 
 https://datasets.imdbws.com/
