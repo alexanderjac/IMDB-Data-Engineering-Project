@@ -1,3 +1,7 @@
+Objective:
+
+The aim of the project is to analyse the movies data from multiple sources and perform ETL processes using Talend.
+
 • Designed a Data Warehouse for the IMDB movies, people, and TV series database
 
 • Developed and optimized 100+ ETL jobs for ensuring one-click load to the entire data warehouse using a master job by parallelization
